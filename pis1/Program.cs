@@ -11,6 +11,7 @@ namespace pis1
         {
             Console.WriteLine("Hello World");
             Console.WriteLine("Hello World_v2");
+            Console.WriteLine("lokalna promjena");
         }
     }
 }
